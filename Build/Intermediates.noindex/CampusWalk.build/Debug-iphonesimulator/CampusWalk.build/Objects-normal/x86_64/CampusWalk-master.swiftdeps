@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "66498cc220c0c21b0db0793a9985d4de"
+build_time: [1514008714, 367793000]
+inputs:
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/CampusMapModel.swift": [1509492010, 0]
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/BuldingsTableViewController.swift": [1509470808, 0]
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/StringExtension.swift": [1509446993, 0]
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/UIImage Extension.swift": [1509470808, 0]
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/AppDelegate.swift": [1508176055, 0]
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/MapViewController.swift": [1509470808, 0]
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalk/BuildingTableViewCell.swift": [1509446993, 0]

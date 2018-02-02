@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "b80a539af38f291b13cd43ff6d114133"
+build_time: [1509463430, 993509000]
+inputs:
+  "/Users/alejandroaas/Documents/CMPSC475A/CampusWalk/CampusWalkTests/CampusWalkTests.swift": [1508175778, 0]
